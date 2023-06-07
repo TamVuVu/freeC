@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.content {
+    // max-width: 1400px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 576px) {
+    .content {
+        padding: 0 10px;
+    }
+}

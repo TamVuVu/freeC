@@ -1,0 +1,11 @@
+.movie-details {
+    .banner {
+        background-size: cover;
+        background-repeat: no-repeat;
+
+        .banner-content {
+            padding: 30px;
+            background-image: linear-gradient(to right, rgba(136.5, 31.5, 157.5, 1) calc((50vw - 170px) - 340px), rgba(136.5, 31.5, 157.5, 0.84) 50%, rgba(136.5, 31.5, 157.5, 0.84) 100%);
+        }
+    }
+}
