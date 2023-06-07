@@ -1,5 +1,5 @@
-Elotus guideline
+FreeC guideline
 
 1. npm install
-2. Go to App/config.js and add your api key
+2. Go to .env and add replace your api key
 3. npm start
